@@ -46,6 +46,8 @@ AI Scholar is a generative AI-powered tool designed to revolutionize how researc
 3. In terminal, run command: "streamlit run main.py"
    For the purpose of testing, we have used a 1 page PDF about LLMs and a transcript of a 1 min video about LLMs.
 
+You can find the sample files we used, and the screenshots of the content generated in dir 'usage-example'
+
 ---
 
 ## 📦 Installation
