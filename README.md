@@ -1,5 +1,7 @@
 # 🧠 Hash#AI Scholar: Your GenAI-Powered Research Companion
 
+![Hash#AI Scholar](/usage-example/Logo.png)
+
 AI Scholar is a generative AI-powered tool designed to revolutionize how researchers, students, and professionals interact with academic papers and conference presentations. It doesn't just summarize — it understands, contextualizes, and narrates the research journey. And even more, it add the human touch, by providing insights from the conferences where this paper was presented/mentioned/taked about. It enriches the value that an AI Scholar assistant can add to a student's attempt at understanding a research paper.
 
 ---
