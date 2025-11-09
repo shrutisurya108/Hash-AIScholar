@@ -1,0 +1,77 @@
+00:00 When you ask artificial
+intelligence, like chat GPT a
+00:04 question, like, what is the
+best way to slice bread It
+00:08 provides an answer that
+seems like a human expert.
+00:12 The AI appears to know about
+types of knives and that bread
+00:16 is heated when cooked.
+00:18 Does AI really know these things? How
+can it know about so many topics?
+00:23 Can we trust the answers?
+00:26 To answer those questions,
+00:27 let's look at the source of
+the information used by tools like ChatGPT.
+00:32 Large language models.
+00:35 Imagine the task of scanning
+every word on the internet.
+00:39 That's every blog, website,
+research paper, book,
+00:43 newspaper, computer
+program, and more.
+00:47 That's the goal of massive
+computers that power tools like
+00:51 chat GPT to capture
+everything it can on the web.
+00:56 This snapshot of over a
+trillion words creates the
+01:00 foundation for large
+language models.
+01:04 By analyzing the words in the
+model, chat GPT can answer our
+01:08 questions and requests
+with human like quality.
+01:11 What sounds like expertise
+01:13 is really a math problem
+for artificial intelligence.
+01:17 It works because powerful
+computers are trained to look
+01:21 for common patterns
+between words and phrases,
+01:24 like tomorrow morning,
+01:26 cup of coffee, and
+suppose that you.
+01:30 Large language models
+can also detect context.
+01:35 It can tell based on words
+that appear together, if you mean
+01:39 bat or bat,
+01:41 every word becomes
+a math problem.
+01:43 That uses artificial
+intelligence to find what word
+01:47 should come next in a sentence.
+01:50 So when we ask AI, how to
+slice bread It doesn't know
+01:54 about bread or knives like
+you and me. It only knows the
+01:58 words in the large
+language model.
+02:00 Because it was trained on
+a trillion words and their
+02:03 context, it can assemble the words
+that most often answer that question.
+02:09 Keep in mind,
+02:10 that AI responses are based
+on what's published on the
+02:14 internet and like the internet, they
+can be biased, misleading, and inaccurate.
+02:21 Evaluation and use them
+with skepticism and care.
+02:25 With experimentation
+and practice,
+02:27 you can use these tools
+to easily access the world's
+02:30 knowledge and find the
+answers you need quickly.
