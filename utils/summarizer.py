@@ -1,21 +1,7 @@
-# utils/summarizer.py
-import openai
-from config import OPENAI_API_KEY
-
-openai.api_key = OPENAI_API_KEY
-
-def summarize_text(text):
-    response = openai.ChatCompletion.create(
-        model="gpt-4",
-        messages=[{"role": "user", "content": f"Summarize this research paper:\n{text}"}],
-        temperature=0.5
-    )
-    return response.choices[0].message.content.strip()
-
-
+#######
 # from transformers import RagTokenizer, RagRetriever, RagSequenceForGeneration
 
-# def summarize_with_rag(text):
+# def summarize_text(text):
 #     # Initialize models and tokenizer
 #     tokenizer = RagTokenizer.from_pretrained("facebook/rag-sequence-base")
 #     retriever = RagRetriever.from_pretrained("facebook/rag-sequence-base", index_name="exact", use_dummy_dataset=True)
@@ -30,6 +16,22 @@ def summarize_text(text):
 
 #     return summary
 
-# # Usage
-# paper = "Paste your research paper text here."
+# # Local check
+# paper = "research paper text"
 # print(summarize_with_rag(paper))
+
+
+# utils/summarizer.py
+import openai
+from config import OPENAI_API_KEY
+
+openai.api_key = OPENAI_API_KEY
+
+def summarize_text(text):
+    response = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages=[{"role": "user", "content": f"Summarize this research paper:\n{text}"}],
+        temperature=0.5
+    )
+    return response.choices[0].message.content.strip()
+
