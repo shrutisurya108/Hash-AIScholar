@@ -49,9 +49,11 @@ AI Scholar is a generative AI-powered tool designed to revolutionize how researc
 ---
 
 ## 📦 Installation
+Make sure that after the repo is cloned, add your relevant API keys in config.py in your local repo.
 
 ```bash
 git clone https://github.com/yourusername/ai-scholar.git
 cd ai-scholar
 pip install -r requirements.txt
+streamlit run main.py
 
