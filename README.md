@@ -1,6 +1,6 @@
 # 🧠 Hash#AI Scholar: Your GenAI-Powered Research Companion
 
-AI Scholar is a generative AI-powered tool designed to revolutionize how researchers, students, and professionals interact with academic papers and conference presentations. It doesn't just summarize — it understands, contextualizes, and narrates the research journey.
+AI Scholar is a generative AI-powered tool designed to revolutionize how researchers, students, and professionals interact with academic papers and conference presentations. It doesn't just summarize — it understands, contextualizes, and narrates the research journey. And even more, it add the human touch, by providing insights from the conferences where this paper was presented/mentioned/taked about. It enriches the value that an AI Scholar assistant can add to a student's attempt at understanding a research paper.
 
 ---
 
@@ -40,9 +40,18 @@ AI Scholar is a generative AI-powered tool designed to revolutionize how researc
 
 ---
 
+## To Run this project:
+1. Install everything mentioned in requirements.txt
+2. Add your OpenAI and Elevenlabs API key in config.py.
+3. In terminal, run command: "streamlit run main.py"
+   For the purpose of testing, we have used a 1 page PDF about LLMs and a transcript of a 1 min video about LLMs.
+
+---
+
 ## 📦 Installation
 
 ```bash
 git clone https://github.com/yourusername/ai-scholar.git
 cd ai-scholar
 pip install -r requirements.txt
+
